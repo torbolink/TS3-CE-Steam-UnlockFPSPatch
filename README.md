@@ -8,7 +8,7 @@ An unofficial Windows app for changing the game's FPS cap from 60 to a selected 
 
 ## Download
 
-Download **TS3-FPS-Patcher.exe** from the [Releases page](https://github.com/torbolink/Toy-Story-3-CE-Steam-Unlock-fps-75-360-/releases). The source archives GitHub generates automatically are for developers, not the app download. Until a release is published, the application will not appear there.
+Download **TS3-FPS-Patcher.exe** from the [Releases page](https://github.com/torbolink/TS3-CE-Steam-UnlockFPSPatch/releases). The source archives GitHub generates automatically are for developers, not the app download.
 
 Windows x64; uses .NET Framework 4.x. No original game executable or assets are distributed. The app is unsigned, so Windows may show a reputation warning; a signature or reputation warning is not itself a malware scan result.
 
@@ -77,6 +77,6 @@ The build is not claimed to be byte-for-byte reproducible: rebuilding with anoth
 
 ## Reports and license
 
-Report the patcher version, supported-game-file hash, Windows version, FPS target and exact error or affected scene in [Issues](https://github.com/torbolink/Toy-Story-3-CE-Steam-Unlock-fps-75-360-/issues). Do not attach game executables, saves, account data or credentials.
+Report the patcher version, supported-game-file hash, Windows version, FPS target and exact error or affected scene in [Issues](https://github.com/torbolink/TS3-CE-Steam-UnlockFPSPatch/issues). Do not attach game executables, saves, account data or credentials.
 
 MIT license for the patcher and its original documentation. Game files are not included or licensed by this project. Unofficial community project, not affiliated with the developer, publisher, Valve or Steam.
